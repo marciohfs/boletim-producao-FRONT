@@ -1,0 +1,15 @@
+@media print {
+  .slds-scope tbody th, thead th {
+    background-color: rgb(224, 224, 224) !important;
+  }
+
+  /* tbody th, .sugar-campos, .sugar-titulo, .cana-campos, .alcool-campos, .trat-campos, .processos-campos {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  } */
+}
+
+@page {
+  margin: 2%;
+  margin-left: 4%;
+}
