@@ -20,7 +20,7 @@ FRONT do Boletim de Produção. Todo o STYLE feito com SLDS (Salesforce Lightnin
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
+- ReactJS
 - Git e Github
 - SLDS (Salesforce Lightning Design System)
 
